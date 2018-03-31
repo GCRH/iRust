@@ -1,0 +1,2 @@
+# iRust
+I love Rust.
